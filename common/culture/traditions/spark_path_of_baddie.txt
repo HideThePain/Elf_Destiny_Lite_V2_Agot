@@ -11,11 +11,14 @@
 	}
 
 	is_shown = {
-		any_player = {
+		scope:character = {
 			is_any_elf_type = yes
 		}
 	}
 	can_pick = {
+		scope:character = {
+			is_any_elf_type = yes
+		}
 		is_target_in_global_variable_list = {
 			name = discovered_traditions
 			target = flag:tradition_elf_superiority

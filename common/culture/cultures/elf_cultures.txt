@@ -99,7 +99,7 @@ elf_culture_serelion = {
     martial_custom = martial_custom_male_only
     traditions = {
         tradition_the_old_ways
-        tradition_roman_legacy
+        #tradition_roman_legacy
         tradition_republican_legacy
         # tradition_ep3_roman_ceremonies
     }
@@ -152,8 +152,8 @@ elf_culture_gwynthorn = {
     martial_custom = martial_custom_male_only
     traditions = {
         tradition_the_old_ways
-        tradition_runestones
-        tradition_strong_kinship
+        #tradition_runestones
+        #tradition_strong_kinship
     }
 
     name_list = name_list_elf
